@@ -13,7 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: yellow;
+    background-color:hsl(47, 88%, 63%);
     box-sizing: border-box;
 }
 
@@ -118,7 +118,7 @@ body{
     }
     .card-container {
         width: 90%; 
-        height: auto%;
+        height: auto;
         border-radius: 20px;
         box-shadow: 10px 10px 0px 1px;
         border: 1px solid black;
